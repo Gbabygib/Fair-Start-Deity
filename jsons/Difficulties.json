@@ -1,4 +1,4 @@
-"name": "Fair Start Deity+",
+"name": "Fair Start Deity",
 "baseHappiness": 9,
 "extraHappinessPerLuxury": 0,
 "researchCostModifier": 1,
@@ -40,7 +40,7 @@
 "barbarianBonus": 0,
 "barbarianSpawnDelay": 0,
 "playerBonusStartingUnits": [],
-"aiCityGrowthModifier": 0.3,
+"aiCityGrowthModifier": 0.25,
 "aiUnitCostModifier": 0.25,
 "aiBuildingCostModifier": 0.25,
 "aiWonderCostModifier": 1,
@@ -50,7 +50,7 @@
 "aiFreeTechs": [],
 "aiMajorCivBonusStartingUnits": [],
 "aiCityStateBonusStartingUnits": [],
-"aiUnhappinessModifier": 0.3,
+"aiUnhappinessModifier": 0.25,
 "aisExchangeTechs": true,
 "turnBarbariansCanEnterPlayerTiles": 0,
 "clearBarbarianCampReward": 25
