@@ -104,7 +104,7 @@
 		"aiUnitCostModifier": 1,
 		"aiBuildingCostModifier": 1,
 		"aiWonderCostModifier": 1,
-		"aiBuildingMaintenanceModifier": 1,
+		"aiBuildingMaintenanceModifier": 0.5,
 		"aiUnitMaintenanceModifier": 0.5,
 		"aiUnitSupplyModifier": 0.5,
 		"aiFreeTechs": [],
