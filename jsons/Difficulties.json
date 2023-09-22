@@ -100,7 +100,7 @@
 		"barbarianBonus": 0,
 		"barbarianSpawnDelay": 0,
 		"playerBonusStartingUnits": [],
-		"aiCityGrowthModifier": 0.01,
+		"aiCityGrowthModifier": 0.05,
 		"aiUnitCostModifier": 1,
 		"aiBuildingCostModifier": 1,
 		"aiWonderCostModifier": 1,
